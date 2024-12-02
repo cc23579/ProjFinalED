@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\caminhoentrecidades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|solutionrelative:caminhoentrecidades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\caminhoentrecidades\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|solutionrelative:caminhoentrecidades\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\caminhoentrecidades\\arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|solutionrelative:caminhoentrecidades\\arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|c:\\users\\igorr\\documents\\cotuca\\projfinal\\caminhoentrecidades\\caminhoentrecidades\\nolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|solutionrelative:caminhoentrecidades\\nolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\caminhoentrecidades\\listasimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|solutionrelative:caminhoentrecidades\\listasimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\caminhoentrecidades\\caminhoentrecidadesmarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|solutionrelative:caminhoentrecidades\\caminhoentrecidadesmarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|c:\\users\\igorr\\documents\\cotuca\\projfinal\\caminhoentrecidades\\caminhoentrecidades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|solutionrelative:caminhoentrecidades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\caminhoentrecidades\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEF9E78-E7E7-4E2D-AF2E-B29B4C5B378C}|CaminhoEntreCidades\\CaminhoEntreCidades.csproj|solutionrelative:caminhoentrecidades\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoLista.cs",
+              "DocumentMoniker": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\NoLista.cs",
+              "RelativeDocumentMoniker": "CaminhoEntreCidades\\NoLista.cs",
+              "ToolTip": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\NoLista.cs",
+              "RelativeToolTip": "CaminhoEntreCidades\\NoLista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:12:06.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaSimples.cs",
+              "DocumentMoniker": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\ListaSimples.cs",
+              "RelativeDocumentMoniker": "CaminhoEntreCidades\\ListaSimples.cs",
+              "ToolTip": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\ListaSimples.cs",
+              "RelativeToolTip": "CaminhoEntreCidades\\ListaSimples.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwv2EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:47:10.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Cidade.cs",
+              "RelativeDocumentMoniker": "CaminhoEntreCidades\\Cidade.cs",
+              "ToolTip": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Cidade.cs",
+              "RelativeToolTip": "CaminhoEntreCidades\\Cidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:31:52.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaminhoEntreCidadesMarte.cs",
+              "DocumentMoniker": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\CaminhoEntreCidadesMarte.cs",
+              "RelativeDocumentMoniker": "CaminhoEntreCidades\\CaminhoEntreCidadesMarte.cs",
+              "ToolTip": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\CaminhoEntreCidadesMarte.cs",
+              "RelativeToolTip": "CaminhoEntreCidades\\CaminhoEntreCidadesMarte.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAmwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:35:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arvore.cs",
+              "DocumentMoniker": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Arvore.cs",
+              "RelativeDocumentMoniker": "CaminhoEntreCidades\\Arvore.cs",
+              "ToolTip": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Arvore.cs",
+              "RelativeToolTip": "CaminhoEntreCidades\\Arvore.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAADwv1cAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:23:28.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CaminhoEntreCidades\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Form1.Designer.cs",
+              "RelativeToolTip": "CaminhoEntreCidades\\Form1.Designer.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAuwAcBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:02:30.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Form1.cs",
+              "RelativeDocumentMoniker": "CaminhoEntreCidades\\Form1.cs",
+              "ToolTip": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Form1.cs",
+              "RelativeToolTip": "CaminhoEntreCidades\\Form1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwE8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:02:17.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Form1.cs",
+              "RelativeDocumentMoniker": "CaminhoEntreCidades\\Form1.cs",
+              "ToolTip": "C:\\Users\\igorr\\Documents\\Cotuca\\ProjFinal\\CaminhoEntreCidades\\CaminhoEntreCidades\\Form1.cs [Design]",
+              "RelativeToolTip": "CaminhoEntreCidades\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:51:56.754Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

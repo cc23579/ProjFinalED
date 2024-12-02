@@ -1,0 +1,10 @@
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\bin\Debug\CaminhoEntreCidades.exe.config
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\bin\Debug\CaminhoEntreCidades.exe
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\bin\Debug\CaminhoEntreCidades.pdb
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\obj\Debug\CaminhoEntreCidades.csproj.AssemblyReference.cache
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\obj\Debug\CaminhoEntreCidades.Form1.resources
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\obj\Debug\CaminhoEntreCidades.Properties.Resources.resources
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\obj\Debug\CaminhoEntreCidades.csproj.GenerateResource.cache
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\obj\Debug\CaminhoEntreCidades.csproj.CoreCompileInputs.cache
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\obj\Debug\CaminhoEntreCidades.exe
+Z:\tecnico\3 Semestre\TI221 - Estrutura de Dados\Projeto\ProjFinal\CaminhoEntreCidades\CaminhoEntreCidades\obj\Debug\CaminhoEntreCidades.pdb
